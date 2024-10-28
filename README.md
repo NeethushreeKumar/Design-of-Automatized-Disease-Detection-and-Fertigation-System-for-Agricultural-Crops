@@ -1,8 +1,6 @@
 # Design-of-Automatized-Disease-Detection-and-Fertigation-System-for-Agricultural-Crops
 An AI and IoT-based system for automated crop disease detection and fertigation. It uses image analysis to detect diseases early, optimizing water and nutrient delivery for sustainable farming, enhancing crop yield, and reducing resource waste.
 
-# Design of Automatized Disease Detection and Fertigation System for Agricultural Crops
-
 ## Project Overview
 This project aims to support the agricultural sector by developing an automated disease detection and fertigation system using Artificial Intelligence (AI) and the Internet of Things (IoT). This system leverages machine learning techniques to identify crop diseases through image analysis and administer precise fertilizer and water delivery (fertigation) based on crop needs. By minimizing fertilizer overuse and preventing crop disease, this project seeks to promote sustainable farming, improve yield, and optimize resource usage.
 
